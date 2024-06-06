@@ -1,3 +1,57 @@
 body {
-    font-family: "Kodchasan";
+  font-family: "Kodchasan";
+  text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+  width: 55px;
+  height: auto;
+}
+
+h1 {
+  font-size: 48px;
+  color: #5ac4be;
+  font-family: "Gobold-Extra-2.otf";
+  padding: 10px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 500px;
+  width: 100%;
+}
+
+h2 {
+  font-family: "kodchasan";
+  font-size: 36px;
+  font-weight: bold;
+  color: #5ac4be;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #184854;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
 }
