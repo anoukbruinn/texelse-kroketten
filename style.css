@@ -24,7 +24,7 @@ h1 {
 section {
     display: flex;
     justify-content: center;
-    padding-bottom: 70px;
+    padding-bottom: 10px;
 }
 
 .content {
@@ -44,7 +44,7 @@ h2 {
 }
 
 p {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 500;
     color: #184854;
     line-height: 2;
