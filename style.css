@@ -1,57 +1,62 @@
 body {
-  font-family: "Kodchasan";
-  text-align: center;
+    font-family: "Kodchasan";
+    text-align: center;
 }
 
 header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #logo {
-  width: 55px;
-  height: auto;
+    width: 55px;
+    height: auto;
 }
 
 h1 {
-  font-size: 48px;
-  color: #5ac4be;
-  font-family: "Gobold-Extra-2.otf";
-  padding: 10px;
+    font-size: 48px;
+    color: #5ac4be;
+    font-family: "Gobold-Extra-2.otf";
+    padding: 10px;
 }
 
 section {
-  display: flex;
-  justify-content: center;
-  padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
 }
 
 .content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  max-width: 500px;
-  width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 800px;
+    width: 100%;
 }
 
 h2 {
-  font-family: "kodchasan";
-  font-size: 36px;
-  font-weight: bold;
-  color: #5ac4be;
+    font-family: "kodchasan";
+    font-size: 36px;
+    font-weight: bold;
+    color: #5ac4be;
 }
 
 p {
-  font-size: 16px;
-  font-weight: 400;
-  color: #184854;
+    font-size: 16px;
+    font-weight: 500;
+    color: #184854;
+    line-height: 2;
 }
 
 footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
- 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: #5ac4be;
+    font-weight: bold;
 }
